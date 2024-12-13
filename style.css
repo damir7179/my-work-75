@@ -1,0 +1,12 @@
+.a {
+    border: solid yellow 7px;
+
+}
+.b {
+    border: dashed green 7px;
+}
+.q {
+    border: solid blue 40px;
+    
+    width: 155px;
+}
